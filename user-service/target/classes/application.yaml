@@ -1,0 +1,20 @@
+server:
+  port: 8091
+spring:
+  datasource:
+    url:
+    data-username:
+    data-password:
+    driver-class-name: com.mysql.jdbc.Driver
+
+
+#mybatis:
+#  type-aliases-package: com.kinroy.user.pojo
+#    configuration:
+#      map-underscore-to-camel-case: true
+
+#logging:
+#  level:
+#    cn.itcast: debug
+#  pattern:
+#    dateformat: MM:dd HH:mm:ss:SSS
