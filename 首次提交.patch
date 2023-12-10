@@ -1,0 +1,28 @@
+Index: order-service/order-service.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- order-service/order-service.iml	(revision 53e3c1f2e7ed970e3c8106ee3692c4eb39bb3c19)
++++ order-service/order-service.iml	(date 1702207377401)
+@@ -1,6 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <module version="4">
+-  <component name="ExternalSystem" externalSystem="Maven" />
+   <component name="FacetManager">
+     <facet type="Spring" name="Spring">
+       <configuration />
+Index: user-service/user-service.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- user-service/user-service.iml	(revision 53e3c1f2e7ed970e3c8106ee3692c4eb39bb3c19)
++++ user-service/user-service.iml	(date 1702207377387)
+@@ -1,6 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <module version="4">
+-  <component name="ExternalSystem" externalSystem="Maven" />
+   <component name="FacetManager">
+     <facet type="Spring" name="Spring">
+       <configuration />
